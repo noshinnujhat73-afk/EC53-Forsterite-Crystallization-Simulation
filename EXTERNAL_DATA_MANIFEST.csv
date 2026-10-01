@@ -1,0 +1,4 @@
+asset,location,purpose,status
+EC53_JWST_MIRI,MAST DOI 10.17909/fwwz-kt92,burst/quiescent spectroscopy,PUBLIC ARCHIVE - DOWNLOAD REQUIRED
+EC53_JWST_NIRCam,MAST,imaging/astrometry,PUBLIC ARCHIVE - DOWNLOAD REQUIRED
+EC53_ALMA,ALMA project 2022.1.00800.S,0.88 mm continuum/PDS context,PUBLIC ARCHIVE - DOWNLOAD REQUIRED

@@ -1,0 +1,3 @@
+EC53 Forsterite Source-Transparent Research Build
+Version: 4.0
+Status: Source-grounded computational framework; EC53 temperature input required for an EC53-specific result.
